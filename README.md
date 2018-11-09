@@ -1,1 +1,1 @@
-# Skosmos-widget-puho
+# puho-warning-widget

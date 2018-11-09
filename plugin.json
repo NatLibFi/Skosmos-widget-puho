@@ -1,0 +1,6 @@
+{
+    "css": ["puho-plugin.css"],
+    "js": ["puho-plugin.js"],
+    "callback": ["puhoWarning"],
+    "templates": ["template.html"]
+}

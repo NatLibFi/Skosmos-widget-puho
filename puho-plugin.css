@@ -1,0 +1,8 @@
+.alert-notice {
+    background-color: #fff;
+    border: 2px solid #ed0d6c;
+}
+
+.alert-notice > h2 {
+    color: #474b4f;
+}
